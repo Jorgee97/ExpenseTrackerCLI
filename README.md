@@ -1,3 +1,4 @@
 # Expenses Tracker
 
-on progress...
+Little expense tracker CLI to track down you money overtime.
+
